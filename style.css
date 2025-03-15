@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(175, 207, 236);
+}
+
+header {
+    background-color: rgb(111, 158, 173);
+    padding: 20px;
+    color: #ade6e6;
+}
+
+header a {
+    text-decoration: none;
+    color: #9eecec;
+    background-color: rgb(65, 169, 169);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+main h1 {
+    font-size: 25px;
+    color: #9c0def;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(238, 122, 235);
+    padding: 10px;
+}
+
+footer p {
+    background-color: rgb(245, 242, 242);
+    padding: 5px;
+}
+
+.menu {
+    text-decoration: none;
+    background-color: rgb(111, 158, 173);
+    color:#f6fafa;
+    padding: 10px;
+    margin:15px;
+    border-radius: 10px;
+}
+
+main {
+    padding: 25px;
+}
+
+.product {
+    background-color: lightblue;
+    padding: 25px;
+    border: 10px solid cadetblue;
+    border-radius: 10px;
+}
+
+.section {
+    background-color: rgb(88, 211, 252);
+    padding: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(44, 220, 226);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
